@@ -1,0 +1,16 @@
+.footerman{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footerhold{
+    background-color: yellow;
+    height: 90px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

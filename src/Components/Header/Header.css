@@ -1,0 +1,27 @@
+.mrheader{
+    height: 150px;
+    width: 100%;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mrheaderholder{
+    height: 120px;
+    width: 90%;
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imageprofile{
+    height: 50px;
+    border-radius: 3px solid black;
+    border: 50px;
+}
+.TextHolder{
+    width: 30%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
